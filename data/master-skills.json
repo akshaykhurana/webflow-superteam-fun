@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65b670ec21078c5d27e362dc",
+    "slug": "design",
+    "name": "Design",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e362de",
+    "slug": "development",
+    "name": "Development",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e362dd",
+    "slug": "marketing",
+    "name": "Marketing",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3630b",
+    "slug": "recruiting-7",
+    "name": "Recruiting",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e362db",
+    "slug": "research-6",
+    "name": "Research",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e362da",
+    "slug": "strategy",
+    "name": "Strategy",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e362d9",
+    "slug": "video",
+    "name": "Video",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e362d8",
+    "slug": "writing",
+    "name": "Writing",
+    "collectionId": "65b670ec21078c5d27e361e2",
+    "fields": {},
+    "refs": {},
+    "images": {}
+  }
+]

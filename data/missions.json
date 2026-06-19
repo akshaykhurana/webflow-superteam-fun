@@ -1,0 +1,375 @@
+[
+  {
+    "id": "65b670ec21078c5d27e3629e",
+    "slug": "airdrop-notification-service",
+    "name": "Airdrop Notification Service",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DESIGN | DEVELOPMENT",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "design",
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36291",
+    "slug": "audit-review-the-solana-course",
+    "name": "Audit & Review the Solana course!",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DEVELOPMENT",
+      "status": "Closed",
+      "type": "Community",
+      "availableTo": "Members & Contributors",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3629d",
+    "slug": "capx-community-advisory-board",
+    "name": "Capx Community Advisory Board",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "STRATEGY",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "strategy"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36293",
+    "slug": "create-content-and-produce-videos-for-gari",
+    "name": "Create Content and Produce Videos for GARI",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "VIDEO",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "video"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36292",
+    "slug": "honey-finance-landing-page-development",
+    "name": "Honey Finance Landing Page Development",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DEVELOPMENT",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3629a",
+    "slug": "landing-page-design-system-mission-for-stellarsol",
+    "name": "Landing Page & Design System Mission for StellarSOL",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DESIGN | DEVELOPMENT",
+      "status": "Closed",
+      "type": "Community",
+      "availableTo": "Members & Contributors",
+      "missionBudget": "2000",
+      "estimatedTime": "2 Weeks",
+      "missionOverview": "StellarSOL is a browser extension that enables users to pay on traditional e-commerce websites like Amazon, Walmart, etc. and they want to sponsor the best designed interactive website. Fresh off a 2nd place finish in the Summer Camp Hackathon, they&rsquo;re ready to roll out their product to the masses.<br>StellarSOL is looking for the best duo ( Designer and Developer) to build the landing page and design system for their product.<br>Here are some of the websites that can be used for inspiration:<br>https://nanocard.framer.website/<br>https://wormhole.com/<br>https://www.taksh.xyz/",
+      "scopeOfWork": "1. 2D Logo and design system for the website.<br>2. The landing page designed, with interactions such as animations and scroll effects to make it look alive.<br>3. It may be developed using either Webflow or code.",
+      "idealProfile": "For Design:<br>Someone with a deep understanding of interactive websites and brand design.<br><br>For Development:<br>Someone who can quickly turn design into actual code or Webflow design quickly and knows how to build responsive websites properly.",
+      "notes": "",
+      "screeningQuestions": "To apply for this Mission, you&rsquo;ll first need to put together a lightweight plan. This plan should answer the following strategic questions:<br><br><br>What tech stack will your team use?<br>What are potentially the most difficult parts of the project?<br>What, if anything, will you need from the sponsor team (besides funding)?<br>What are your best examples of proof of work?<br><br>Discuss these questions with your team and put the answers into a Google doc to include in your application. Please make sure your visibility settings are set to &ldquo;Anyone with the link&rdquo; or your application will not be reviewed.",
+      "missionLogistics": "Create a Google doc or Notion page with your answers to the questions above.<br>Apply for the Mission using the link above.<br>Note that we are unable to provide individualized feedback on rejected applications at this time. Please keep that in mind before you apply.<br>If you&rsquo;re approved for the Mission, you will receive 25% of the funding up front, 25% halfway through the project, and the rest upon completion."
+    },
+    "refs": {
+      "skills": [
+        "design",
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3629c",
+    "slug": "market-research-solana-pay",
+    "name": "Market Research for Solana Pay",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "RESEARCH",
+      "status": "Closed",
+      "type": "Community",
+      "availableTo": "Members & Contributors",
+      "missionBudget": "1500",
+      "estimatedTime": "2 Weeks",
+      "missionOverview": "[Solana Pay](https://solanapay.com/) is an open-source protocol that sets the standard for payments on the Solana blockchain. It was launched in February 2022 and has seen 100+ ecosystem projects being built on it. Payments is a multi-trillion dollar industry and a long-term focus of the Solana ecosystem.<br><br>The goal of this mission is to explore opportunities for Solana Pay in markets outside of the US and EU. Based on countries with the highest crypto adoption and best developer communities, find the top payments gateway companies, FinTech companies, crypto/web3 companies, and ecosystem projects. Explore how Solana&apos;s ecosystem should engage with these different parties. Using empirical and secondary research, compile market overviews on how local payment networks function.<br><br>This mission is integral to how the Solana Pay team will approach new market expansion. The team has engaged with local projects in India, Vietnam, and West Africa, but we don&rsquo;t have enough capacity to explore all new markets comprehensively. The ideal submission will help us discover new opportunities in previously overlooked markets where this is a strong consumer and merchant value proposition using Solana Pay.<br><br>Note that the successful submission need not cover all geographies. Aim for depth over breath.",
+      "scopeOfWork": "#NAME?",
+      "idealProfile": "- The ideal talent should have an academic, research, consulting, or banking background with previous exposure to payments or FinTech.<br>- There is no limit to the size of the team, although we would like to see teams &lt;3 people.",
+      "notes": "",
+      "screeningQuestions": "To apply for this Mission, you&rsquo;ll first need to put together a lightweight plan. This plan should answer the following strategic questions:<br><br>1. What regions do you see the most opportunities and why?<br>2. How do you plan to form your own opinions on the projects while taking cultural and geographical nuances into consideration?<br>3. Do you have any relevant experience with FinTech or payments?<br>4. What, if anything, will you need from the sponsor team (besides funding)?<br>5. What are your best examples of proof of work?<br><br>Discuss these questions with your team and put the answers into a Google doc to include in your application. Please make sure your visibility settings are set to &ldquo;Anyone with the link&rdquo; or your application will not be reviewed.",
+      "missionLogistics": "1. Create a Google doc or Notion page with your answers to the questions above.<br>2. Apply for the Mission using the link above.<br>1. Note that we are unable to provide individualised feedback on rejected applications at this time. Please keep that in mind before you apply.<br>3. If you&rsquo;re approved for the Mission, you will receive 25% of the funding up front, 25% halfway through the project, and the rest upon completion."
+    },
+    "refs": {
+      "skills": [
+        "research-6"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3628e",
+    "slug": "marketing-for-pstake",
+    "name": "Marketing & Growth Mission for pSTAKE",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "MARKETING",
+      "status": "Closed",
+      "type": "Community",
+      "availableTo": "Members & Contributors",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "marketing"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36299",
+    "slug": "no-code-tool-for-nfts",
+    "name": "No Code Tool for NFTs",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DESIGN | DEVELOPMENT | WRITING",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "design",
+        "development",
+        "writing"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36298",
+    "slug": "rewards-mining",
+    "name": "Rewards Mining",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DESIGN | DEVELOPMENT | WRITING",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "design",
+        "development",
+        "writing"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3628f",
+    "slug": "superteam-earnings-portal",
+    "name": "Superteam Earnings Portal",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DESIGN | DEVELOPMENT",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "design",
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3628d",
+    "slug": "superteam-homepage-development",
+    "name": "Superteam Homepage Development",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DEVELOPMENT",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3629b",
+    "slug": "superteam-impact-dashboard",
+    "name": "Superteam Impact Dashboard",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "DESIGN | DEVELOPMENT",
+      "status": "Closed",
+      "type": "Member",
+      "availableTo": "",
+      "missionBudget": "",
+      "estimatedTime": "",
+      "missionOverview": "",
+      "scopeOfWork": "",
+      "idealProfile": "",
+      "notes": "",
+      "screeningQuestions": "",
+      "missionLogistics": ""
+    },
+    "refs": {
+      "skills": [
+        "design",
+        "development"
+      ]
+    },
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36290",
+    "slug": "write-seahorse-lang-program-examples",
+    "name": "Write Seahorse Lang Program Examples!",
+    "collectionId": "65b670ec21078c5d27e361e1",
+    "fields": {
+      "skillTag": "WRITING | DEVELOPMENT",
+      "status": "Closed",
+      "type": "Community",
+      "availableTo": "Members & Contributors",
+      "missionBudget": "1500",
+      "estimatedTime": "5-20 Hours",
+      "missionOverview": "<p id=\"\">Seahorse lets you write Solana programs in Python. It is a community-led project built on <a id=\"\" href=\"https://github.com/coral-xyz/anchor\">Anchor</a> Developers gain Python's ease-of-use, while still having the same safety guarantees of every Rust program on the Solana chain. Low-level memory problems are handled by default, letting you worry about the important stuff.<br><br>Solana Foundation is looking for 3 devs to write Seahorse program examples and learning guides. Specifically, recreating the following, but for Seahorse Lang:<br><br>1. Cash-settled European options protocol <a id=\"\" href=\"https://github.com/0xTomoyo/anchor-options\">reference</a><br>2. Escrow program <a id=\"\" href=\"https://hackmd.io/@ironaddicteddog/anchor_example_escrow\">reference</a><br>3. Voting example <a href=\"https://github.com/bfriel/crunchy-vs-smooth-v2\">reference</a><br><br>Three people shall be selected to write a guide for each program. And shall be paid $500 for the deliverable.</p>",
+      "scopeOfWork": "- Go through and understand existing Anchor reference guides,<br>- Create similar program but in Python for Seahorse,<br>- Create a tutorial / learning guide which people can follow to learn more about Seahorse.",
+      "idealProfile": "- Strong Solana development skills and at least 3 months of experience in Rust development<br>- Python experience",
+      "notes": "",
+      "screeningQuestions": "<p id=\"\">To apply for this Mission, you’ll first need to put together a lightweight plan. This plan should answer the following strategic questions:<br><br>1. Are you a full-time developer? (Y/N)<br>2. How proficient are you at write code in python? (1-10) And describe the most complex code you’ve written in python?<br>3. How proficient are you at Solana development? (1-10)<br>4. What is the single biggest technical challenge you have solved? (1-2 lines)<br>5. Which of the three tutorials would you want to write?<br><br>Put the answers into a Google doc (you can make a copy of <a href=\"https://docs.google.com/document/u/0/d/1m1CMs_2Wk4Pj9qNDsUtW3NzNKnuudzDtWVKVwhNzBpI/edit?fromCopy=true\">this document</a>) and include in your application. Please make sure your visibility settings are set to “Anyone with the link” or your application will not be reviewed.</p>",
+      "missionLogistics": "<p id=\"\">Dummy Resource </p><p id=\"\">1. Create a Google doc can fork <a id=\"\" href=\"https://docs.google.com/document/u/0/d/1m1CMs_2Wk4Pj9qNDsUtW3NzNKnuudzDtWVKVwhNzBpI/edit?fromCopy=true\">this document</a> with your answers to the questions above.<br>2. Apply for the Mission using the link above. <br>Note that we are unable to provide individualised feedback on rejected applications at this time. Please keep that in mind before you apply.<br>3. If you’re approved for the Mission, you will be informed within 2-3 days.<br>4. 100% of the amount shall be paid upon final submission.</p>"
+    },
+    "refs": {
+      "skills": [
+        "writing",
+        "development"
+      ]
+    },
+    "images": {}
+  }
+]

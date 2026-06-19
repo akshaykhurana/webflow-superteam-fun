@@ -1,0 +1,35 @@
+[
+  {
+    "id": "65b670ec21078c5d27e36283",
+    "slug": "akshay-bd",
+    "name": "Akshay BD",
+    "collectionId": "65b670ec21078c5d27e361ac",
+    "fields": {
+      "twitterLink": "https://twitter.com/akshaybd"
+    },
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e3628c",
+    "slug": "kash-dhanda",
+    "name": "Kash Dhanda",
+    "collectionId": "65b670ec21078c5d27e361ac",
+    "fields": {
+      "twitterLink": "https://twitter.com/kashdhanda"
+    },
+    "refs": {},
+    "images": {}
+  },
+  {
+    "id": "65b670ec21078c5d27e36279",
+    "slug": "tanmay-bhat",
+    "name": "Tanmay Bhat",
+    "collectionId": "65b670ec21078c5d27e361ac",
+    "fields": {
+      "twitterLink": "https://twitter.com/thetanmay"
+    },
+    "refs": {},
+    "images": {}
+  }
+]
