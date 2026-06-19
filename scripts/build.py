@@ -10,6 +10,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from import_csv import import_all, load_json_files, write_json_files, write_slug_aliases
+from images import audit_remote_assets
 from render_html import render_all
 
 
@@ -42,6 +43,9 @@ def main() -> None:
     else:
         data = cmd_import(download_images=not args.skip_images)
         cmd_render(data)
+    print("Auditing remote assets...")
+    if not audit_remote_assets():
+        raise SystemExit(1)
     print("Done.")
 
 

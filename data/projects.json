@@ -11,6 +11,7 @@
       "twitterOfProjectLead": "https://twitter.com/0xbhaisaab",
       "featured": false,
       "thumbnail": "images/cms/projects/buymeacryptocoffee/65b670ec21078c5d27e361e6_Zsbk2ziV725vEBZAfoj7Ob5KoZGLeN5gvKEQ2oCPink-34b4a889.png",
+      "thumbnailBackground": "",
       "description": "Move on from traditional currency, and easily get support from your audience in Crypto. Not a creator? You can show support to your favorite creators with just their wallet addresses! And also add a few words of gratitude!",
       "mainContent": ""
     },
@@ -33,6 +34,7 @@
       "twitterOfProjectLead": "https://twitter.com/kb24x7",
       "featured": false,
       "thumbnail": "images/cms/projects/diswallet/65b670ec21078c5d27e361ee_C-fR7ANc5FsnHh1jaUGTytVLyUkkOLfRPBgJRqpolek-4d3c29dd.svg",
+      "thumbnailBackground": "",
       "description": "DisWallet makes it easier to do fast and secured transactions with your community members inside Discord in just a few simple commands.",
       "mainContent": ""
     },
@@ -55,6 +57,7 @@
       "twitterOfProjectLead": "https://twitter.com/neilshroff",
       "featured": false,
       "thumbnail": "images/cms/projects/ftx-superteam/65b670ec21078c5d27e36296__rLCELZobNuSWJ9vr8_6YQ7hgmC_iKizqXTDp6QbUF4-0b2be9ee.png",
+      "thumbnailBackground": "",
       "description": "Investing pre-seed and seed checks for Indian builders. Launch your project with capital and community from FTX and Superteam.",
       "mainContent": ""
     },
@@ -77,6 +80,7 @@
       "twitterOfProjectLead": "https://twitter.com/githacker_",
       "featured": false,
       "thumbnail": "images/cms/projects/githacker/65b670ec21078c5d27e361ec_z9iZe1la27PRAwZ9bP8u6AyX_1UeD64vUkIp-9ddhLQ-6e2da3f2.png",
+      "thumbnailBackground": "",
       "description": "GitHacker helps developers earn by contributing and solving issues bountied by repository owners, developer advocates and organisations",
       "mainContent": ""
     },
@@ -99,6 +103,7 @@
       "twitterOfProjectLead": "https://twitter.com/paarugsethi",
       "featured": false,
       "thumbnail": "images/cms/projects/ground-zero/65b670ec21078c5d27e36250_bNzsgNZM91fzP4hEGQGkf7AAFRERPjDVho5AP1v2Nj4-94f56bdc.png",
+      "thumbnailBackground": "",
       "description": "Ground Zero is a project to help people learn the basics of crypto with questions answered with a quick summary, videos, articles & tweets to help you understand every important topic for free.",
       "mainContent": ""
     },
@@ -121,6 +126,7 @@
       "twitterOfProjectLead": "https://twitter.com/DecentralDude",
       "featured": false,
       "thumbnail": "images/cms/projects/locus/65b670ec21078c5d27e36264__FbprMMfs_2EApFLcb4w1-XnAasTjNCuummTE-viggQ-1dee2c5a.jpeg",
+      "thumbnailBackground": "",
       "description": "A Community collaboration tool to manage projects and bounties with seamless collaboration among community members.",
       "mainContent": ""
     },
@@ -143,6 +149,7 @@
       "twitterOfProjectLead": "https://twitter.com/anoushk77",
       "featured": true,
       "thumbnail": "images/cms/projects/metapass/65b670ec21078c5d27e3621d_INH46mAioe7lLXLBTCuF9gowVKmpIl0csXeRuNLNpXs-d89df526.png",
+      "thumbnailBackground": "",
       "description": "Metapass allows anyone to create events and sell NFT Tickets on Solana and Polygon without any knowledge of crypto or web3.",
       "mainContent": ""
     },
@@ -165,6 +172,7 @@
       "twitterOfProjectLead": "https://twitter.com/0xBolt",
       "featured": false,
       "thumbnail": "images/cms/projects/node-air/65b670ec21078c5d27e361ef_oa4IbI5RFwHv46fqdES-ezsTZgIVZHI4ceEUfIXo3Ow-e2a721fd.png",
+      "thumbnailBackground": "",
       "description": "NodeAir is a Solana dashboard which utilizes charts and graphs to show wallet details such as transaction history and tokens. A person can also create their profile using which one can view not only theirs but other wallet insights as well.",
       "mainContent": ""
     },
@@ -187,6 +195,7 @@
       "twitterOfProjectLead": "https://twitter.com/thisismaheshj",
       "featured": true,
       "thumbnail": "images/cms/projects/one-upi/65b670ec21078c5d27e36295_ZhjGQ3v64_pBj20ts3yA7HUugDPbq3kchKwcz5nGGqk-4527aaa5.png",
+      "thumbnailBackground": "",
       "description": "OneUPI is a Solana-powered **0% commission** payment gateway with **Instant Settlement and No commission**, **no setup fee** & **no maintenance charges**.",
       "mainContent": ""
     },
@@ -209,6 +218,7 @@
       "twitterOfProjectLead": "https://twitter.com/ayshptk",
       "featured": false,
       "thumbnail": "images/cms/projects/raid/65b670ec21078c5d27e361ed_Kwa9mjRETrt4AawR0jLiOTaN8OVD49KYwyXO3rL3HgM-7a6af805.jpeg",
+      "thumbnailBackground": "",
       "description": "We are a trigger-based automation framework - we connect on-chain/off-chain data triggers seamlessly to perform actions while being extremely customisable and developer-friendly.",
       "mainContent": ""
     },
@@ -231,6 +241,7 @@
       "twitterOfProjectLead": "https://twitter.com/Solaceprotocolh",
       "featured": false,
       "thumbnail": "images/cms/projects/solace-protocol/65b670ec21078c5d27e361f2_LPppAsY77KrmPnK8IvJy9N45DBbEZIwLXitJ5dvbZtc-9f108fde.png",
+      "thumbnailBackground": "",
       "description": "A self custodial program based wallet for Solana which eliminates the need of a seed phrase and enhances security using social recovery.",
       "mainContent": ""
     },
@@ -253,6 +264,7 @@
       "twitterOfProjectLead": "https://twitter.com/harkirat961",
       "featured": false,
       "thumbnail": "images/cms/projects/solana-developer-series/65b670ec21078c5d27e36294_nP5cwh3k4QNvrgTBJWyp7bOI6lIv0iJPIJNTv6qvdSc-9b1e45da.png",
+      "thumbnailBackground": "",
       "description": "8 videos to get you started on Solana development. The videos take you through the basics of blockchains, and how Solana differentiates itself from other L1s.\nIt also dives deeper into creating and deploying your first program, and writing clients to interact with it.",
       "mainContent": ""
     },
@@ -275,6 +287,7 @@
       "twitterOfProjectLead": "https://twitter.com/gajeshnaik",
       "featured": false,
       "thumbnail": "",
+      "thumbnailBackground": "",
       "description": "Solana Dev Series is a collection of explainer videos, coding tutorials, projects and a bunch of interviews & panel discussions. The goal of the project is to teach Solana development by building projects & to onboard the next wave of Solana developers.",
       "mainContent": ""
     },
@@ -295,6 +308,7 @@
       "twitterOfProjectLead": "https://twitter.com/0xBolt",
       "featured": false,
       "thumbnail": "images/cms/projects/solathon/65b670ec21078c5d27e361f1_8FDOSLzaED8NDqdyQTqU0S8e-y0KB3M6aqiOxI45mD0-41172bc7.png",
+      "thumbnailBackground": "",
       "description": "Solathon is an easy to use, beginner friendly and advance Python SDK for Solana. With detailed docs and easy to use methods with a lot of examples, Solathon makes it easy for new developers to get started or to be used in real world applications.",
       "mainContent": ""
     },
@@ -317,6 +331,7 @@
       "twitterOfProjectLead": "https://twitter.com/saxenasaheb",
       "featured": false,
       "thumbnail": "images/cms/projects/solclaim/65b670ec21078c5d27e361f0_FjOpM0w6Bv0PHppJp7982bIRZ3zd9Ib1US56rLrInV0-d684852c.jpeg",
+      "thumbnailBackground": "",
       "description": "Solclaim makes the process of finding airdrops hassle-free. Just type in your wallet address and find airdrops you’re eligible for. It is that simple.",
       "mainContent": ""
     },
@@ -339,6 +354,7 @@
       "twitterOfProjectLead": "https://twitter.com/ujjwalgupta49",
       "featured": true,
       "thumbnail": "images/cms/projects/stellarsol/65b670ec21078c5d27e361e9_Wmx71i8boirNC-vOYUaHO9pIfbsYwlvpknSqsXOdAaA-254b93ea.jpeg",
+      "thumbnailBackground": "",
       "description": "StellarSOL is a browser extension that enables you to pay on your favorite e-commerce websites with SPL tokens.",
       "mainContent": ""
     },
@@ -361,6 +377,7 @@
       "twitterOfProjectLead": "http://twitter.com/kashdhanda",
       "featured": true,
       "thumbnail": "images/cms/projects/superteam-earn/65b670ec21078c5d27e36297_empe6xbi9ZjV1JHb-6dEkqpVkVou5iY8lXDwqPugP7Q-db4544cb.png",
+      "thumbnailBackground": "",
       "description": "Superteam Earn allows developers, designers, and everyone else to find earning opportunities in Web3. Complete an on-chain bounty and receive a Proof of Work NFT to start building your on-chain resume.",
       "mainContent": ""
     },
@@ -383,6 +400,7 @@
       "twitterOfProjectLead": "https://twitter.com/AdityaShetty__",
       "featured": true,
       "thumbnail": "",
+      "thumbnailBackground": "",
       "description": "A collection of essays ranging from PRDs, sponsored deep-dives, community updates & ideas to move the Solana ecosystem forward.",
       "mainContent": ""
     },
@@ -403,6 +421,7 @@
       "twitterOfProjectLead": "http://twitter.com/kashdhanda",
       "featured": true,
       "thumbnail": "images/cms/projects/superteam-talent/65b670ec21078c5d27e361eb__96vEPn4f_WpG0DXNWWAccHQ4OWYxk168lAwRtmJEQQ-5928bc4a.jpeg",
+      "thumbnailBackground": "",
       "description": "Finding the right talent is a full-time job itself, stealing away time from teams that are trying to build. Our community has the distribution and the network to help Solana founders find undervalued gems.",
       "mainContent": ""
     },
@@ -425,6 +444,7 @@
       "twitterOfProjectLead": "https://twitter.com/rajkaria_",
       "featured": true,
       "thumbnail": "images/cms/projects/truts/65b670ec21078c5d27e361e5_ExjlXt5tNhDiZZmAitCys9_dcALSYPPIfemLlul5pn0-da1de275.png",
+      "thumbnailBackground": "",
       "description": "Truts is an on-chain and off-chain analytics platform for Web3 communities that enhances discovery and research for users and communities across the ecosystem.",
       "mainContent": ""
     },
@@ -447,6 +467,7 @@
       "twitterOfProjectLead": "https://twitter.com/shek_dev",
       "featured": true,
       "thumbnail": "images/cms/projects/wordcel-club/65b670ec21078c5d27e361f3_DppP-6Kz3f3QRjAGWxUl-GOMLITbjz9kSPLy-uFVKdI-e9e90f5d.png",
+      "thumbnailBackground": "",
       "description": "Wordcel is a Decentralized Publishing Stack on Solana to enable writers to publish, distribute & monetize their work on-chain while truly owning every single piece of the puzzle.",
       "mainContent": ""
     },
@@ -469,6 +490,7 @@
       "twitterOfProjectLead": "https://twitter.com/Schemer1729",
       "featured": false,
       "thumbnail": "images/cms/projects/defiOS/65b670ec21078c5d27e36232_RHHUUMy_AjosDugLUmqUAAwlm7sW-zu__3BhugVW1Mk-81ae6cc9.png",
+      "thumbnailBackground": "",
       "description": "DefiOS converts open source repositories into DAOs with project-native tokens that enterprise users can purchase and stake on features/ bug requests to incentivize that community to prioritize them.",
       "mainContent": ""
     },
@@ -491,6 +513,7 @@
       "twitterOfProjectLead": "https://twitter.com/kb24x7",
       "featured": false,
       "thumbnail": "images/cms/projects/wagmi-bio/65b670ec21078c5d27e361e8_MPBe3LHH-Rd4_GGVl54Rf8I9I-oEZYtPspQVfZlE1bo-df5deac4.svg",
+      "thumbnailBackground": "",
       "description": "Powered by the Solana network, wagmi.bio is the one stop gateway for receiving payments in crypto.",
       "mainContent": ""
     },

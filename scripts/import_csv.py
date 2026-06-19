@@ -214,6 +214,8 @@ def import_all(download_images: bool = True) -> tuple[dict[str, list[dict]], dic
         rec["fields"]["notes"] = clean_text(row.get("Notes"))
         rec["fields"]["screeningQuestions"] = clean_text(row.get("Mission Screening Questions"))
         rec["fields"]["missionLogistics"] = clean_text(row.get("Mission Logistics"))
+        if download_images:
+            rec = localize_record_images(rec, "missions")
         data["missions"].append(rec)
     data["missions"], all_aliases["missions"] = build_alias_map(data["missions"], "missions")
 
@@ -231,6 +233,8 @@ def import_all(download_images: bool = True) -> tuple[dict[str, list[dict]], dic
         rec["fields"]["howItWorks"] = clean_text(row.get("How it Works"))
         rec["fields"]["resources"] = clean_text(row.get("Resources"))
         rec["fields"]["faqs"] = clean_text(row.get("FAQs"))
+        if download_images:
+            rec = localize_record_images(rec, "instagrants")
         data["instagrants"].append(rec)
     data["instagrants"], all_aliases["instagrants"] = build_alias_map(
         data["instagrants"], "instagrants"
@@ -255,6 +259,7 @@ def import_all(download_images: bool = True) -> tuple[dict[str, list[dict]], dic
         rec["fields"]["twitterOfProjectLead"] = twitter
         rec["fields"]["featured"] = truthy(row.get("Featured Projects"))
         rec["fields"]["thumbnail"] = clean_text(row.get("Thumbnail"))
+        rec["fields"]["thumbnailBackground"] = clean_text(row.get("Thumbnail Background"))
         rec["fields"]["description"] = clean_text(row.get("Project Description"))
         rec["fields"]["mainContent"] = clean_text(row.get("Main Content"))
         if download_images:
@@ -287,6 +292,8 @@ def import_all(download_images: bool = True) -> tuple[dict[str, list[dict]], dic
         rec["fields"]["terms"] = clean_text(row.get("Terms and Conditions"))
         rec["fields"]["notes"] = clean_text(row.get("Notes"))
         rec["fields"]["bugBounty"] = clean_text(row.get("Bug Bounty"))
+        if download_images:
+            rec = localize_record_images(rec, "bounties")
         data["bounties"].append(rec)
     data["bounties"], all_aliases["bounties"] = build_alias_map(data["bounties"], "bounties")
 
